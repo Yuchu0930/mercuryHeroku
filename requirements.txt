@@ -9,7 +9,6 @@ attrs==21.4.0
 Babel==2.9.1
 backcall==0.2.0
 billiard==3.6.4.0
-black==22.1.0
 bleach==4.1.0
 blis==0.7.6
 Brotli==1.0.9
